@@ -1,0 +1,24 @@
+@import "./partials/common";
+@import "./animate.css";
+@import "~bootstrap/scss/bootstrap";
+@import "./partials/layout";
+
+.recharts-pie-label-text,
+.recharts-legend-item-text {
+  font-size: 10px;
+}
+
+// .recharts-wrapper {
+//     > .recharts-surface {
+//         width: 100% !important;
+//         float: left !important;
+//     }
+
+//     .recharts-legend-wrapper {
+//         width: 30% !important;
+//         float: right !important;
+//         top: 0 !important;
+//         right: 0 !important;
+//         left: auto !important;
+//     }
+// }
